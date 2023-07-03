@@ -3,7 +3,7 @@ import { HamburgerIcon, PlusIcon } from '../../icons';
 
 const Header = () => {
   return(
-    <div className="container">
+    <div className="header-container">
       <div className="ham-icon">
         <HamburgerIcon />
       </div>
