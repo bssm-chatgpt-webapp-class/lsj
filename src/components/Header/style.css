@@ -1,0 +1,25 @@
+.container{
+  width: 500px;
+  height: 6vh;
+  background-color: gray;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+}
+
+.ham-icon{
+  margin-left: 3%;
+  color: white;
+}
+
+.main-text{
+  color: white;
+}
+
+.plus-icon{
+  margin-right: 3%;
+  color: white;
+}
